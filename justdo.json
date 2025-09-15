@@ -1,0 +1,22 @@
+{
+    "version": "1.0.6",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/atharvwasthere/JustDO/releases/download/v1.0.6/justdo_1.0.6_windows_amd64.zip",
+            "bin": [
+                "justdo.exe"
+            ],
+            "hash": "ee91d0a54683b870a2ff7da0480a21025427da85a35660d20d5fec0146af6c73"
+        },
+        "arm64": {
+            "url": "https://github.com/atharvwasthere/JustDO/releases/download/v1.0.6/justdo_1.0.6_windows_arm64.zip",
+            "bin": [
+                "justdo.exe"
+            ],
+            "hash": "dd40a542d2a902fabf4d3bc071b1e599b0577481f4a79f2eb91cf11b34251ffc"
+        }
+    },
+    "homepage": "https://github.com/atharvwasthere/JustDO",
+    "license": "MIT",
+    "description": "JustDO — fast CLI to run your doers"
+}
